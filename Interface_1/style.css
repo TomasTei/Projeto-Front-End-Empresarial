@@ -1,0 +1,96 @@
+body {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background: linear-gradient(to bottom, #1a1a1a, #333);
+            color: white;
+            font-family: Arial, sans-serif;
+            cursor: url('https://cur.cursors-4u.net/nature/nat-10/nat947.ani'), auto;
+        }
+        header {
+            background: url('https://media.istockphoto.com/id/1214033491/pt/v%C3%ADdeo/piazza-garibaldi-in-the-evening-parma-italy.jpg?s=640x640&k=20&c=G8JqedHE6hc93klL3HX-nsjorQwevlnxeBqZiekIcXs=') no-repeat center/cover;
+            color: gold;
+            padding: 30px;
+            height: 180px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+        .logo {
+            font-size: 3.5em;
+            font-weight: bold;
+            font-family: 'Times New Roman', serif;
+            text-shadow: 2px 2px 10px gold;
+        }
+        .bandeira {
+            width: 50px;
+            position: absolute;
+            right: 20px;
+            top: 20px;
+        }
+        nav {
+            background: #222;
+            padding: 15px;
+        }
+        nav a {
+            color: gold;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1.2em;
+            transition: color 0.3s, background 0.3s;
+        }
+        nav a:hover {
+            background: gold;
+            color: black;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .product {
+            display: inline-block;
+            width: 300px;
+            margin: 30px;
+            padding: 15px;
+            background: rgba(255, 215, 0, 0.1);
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+        }
+        .product img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .product p {
+            font-size: 1.1em;
+        }
+        .product .description {
+            font-size: 0.9em;
+            color: #ddd;
+            margin-top: 5px;
+        }
+        button {
+            background-color: gold;
+            border: none;
+            padding: 10px 15px;
+            font-size: 1em;
+            cursor: pointer;
+            border-radius: 5px;
+            color: black;
+        }
+        button:hover {
+            background-color: darkgoldenrod;
+        }
+        footer {
+            background: black;
+            color: #fff;
+            padding: 15px;
+            position: relative;
+            margin-top: 30px;
+        }
+        #cronometro {
+            font-size: 1.5em;
+            margin-top: 20px;
+            color: red;
+        }
