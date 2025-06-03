@@ -4,7 +4,7 @@ Este projeto é uma **interface web fictícia** desenvolvida com HTML, CSS e Jav
 
 ---
 
-## 🎯 Propósito
+##  Propósito
 
 O site **Parma** foi feito como **protótipo visual**, sem funcionalidades de backend, com foco em:
 
@@ -14,7 +14,7 @@ O site **Parma** foi feito como **protótipo visual**, sem funcionalidades de ba
 
 ---
 
-## 🖼️ Telas de Apresentação
+##  Telas de Apresentação
 
 ### Página de Destaques do Mês
 
@@ -26,13 +26,13 @@ Apresenta os produtos de forma elegante, com descrições, preços e um botão d
 
 ### Página de Contato
 
-<img src="imgs_readme/interface_2.png" alt="imagem interface_2" width="50%">
+<img src="img_readme/interface_2.png" alt="imagem interface_2" width="50%">
 
 A seção de contato exibe telefone, email e endereço da empresa com um design minimalista e luxuoso, reforçando o estilo da marca.
 
 ---
 
-## 🧪 Tecnologias Usadas
+##  Tecnologias Usadas
 
 - HTML5  
 - CSS3  
@@ -40,7 +40,7 @@ A seção de contato exibe telefone, email e endereço da empresa com um design 
 
 ---
 
-## ℹ️ Observações
+##  Observações
 
 Este site é apenas uma **apresentação visual**, sem funcionalidades dinâmicas ou integração com banco de dados.  
 Ideal para demonstração de layout, identidade de marca e proposta de design para clientes.
